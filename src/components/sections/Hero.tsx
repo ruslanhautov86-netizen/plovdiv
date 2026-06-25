@@ -14,7 +14,7 @@ export function Hero() {
           backgroundImage: 'url("/hero-bg.jpg")',
         }}
       >
-        <div className="absolute inset-0 bg-gradient-to-b from-background/90 via-background/60 to-background"></div>
+        <div className="absolute inset-0 bg-gradient-to-b from-black/80 via-black/60 to-background"></div>
       </div>
 
       {/* Content */}
@@ -29,7 +29,7 @@ export function Hero() {
           <span className="text-gold font-medium uppercase tracking-[0.3em] text-sm md:text-base mb-6 block">
             Добро пожаловать
           </span>
-          <h1 className="text-5xl md:text-7xl lg:text-8xl font-heading font-bold text-foreground tracking-tight leading-[1.1]">
+          <h1 className="text-5xl md:text-7xl lg:text-8xl font-heading font-bold text-white tracking-tight leading-[1.1]">
             СТАРЫЙ <br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-gold to-gold-hover">
               ПЛОВДИВ
@@ -43,7 +43,7 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.4 }}
           className="max-w-2xl mx-auto"
         >
-          <p className="text-lg md:text-xl text-foreground/80 mb-10 leading-relaxed font-light">
+          <p className="text-lg md:text-xl text-white/90 mb-10 leading-relaxed font-light">
             Самый большой ресторан Красносельского района. Идеальное место для вашего отдыха, 
             шумных вечеринок, свадебных банкетов и концертов.
           </p>
