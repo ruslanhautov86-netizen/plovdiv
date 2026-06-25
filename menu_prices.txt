@@ -1,0 +1,68 @@
+3996/2a000001990a87bbfa27a2bf54376aa0ba0e/{size}","price":"390","currency":"₽"},{"title":"ШАШЛЫК ИЗ СВИНИНЫ
+1182/2a000001990a87bd250e00d0dd1d78d25167/{size}","price":"720","currency":"₽"},{"title":"ЛЮЛЯ-КЕБАБ","phot
+3996/2a000001990a87bc8b4abcfc4cb6451c2748/{size}","price":"820","currency":"₽"},{"title":"САДЖ ИЗ ШАШЛЫКОВ"
+2611/2a000001990a87bc6fef5e3e9c3adceba7ee/{size}","price":"3100","currency":"₽"},{"title":"ОДЖАХУРИ С БАРАН
+1182/2a000001990a87bc04e3a6d8e831f5da5706/{size}","price":"800","currency":"₽"},{"title":"ДОЛМА ИЗ БАРАНИНЫ
+9840/2a000001990a87bbf60b9b7a8ff834376e4a/{size}","price":"680","currency":"₽"},{"title":"СУЛУГУНИ ЗАПЕЧЕНН
+0998/2a000001990a87bd25b08ca877a2b7c36fbe/{size}","price":"460","currency":"₽"},{"title":"РУЛЕТЫ ИЗ БАКЛАЖА
+1203/2a000001990a87ba1e53c03544f251742e18/{size}","price":"640","currency":"₽"}]}],"fullObjectsCount":60,"r
+4120/2a0000019938224c8386165440b9740a9880/{size}","price":"430","currency":"₽"},{"title":"УХА ТРОЙНАЯ СО СЛ
+9840/2a00000199382249917486542ce6a365f8ea/{size}","price":"700","currency":"₽"}]},{"categoryName":"ГАРНИРЫ"
+9371/2a00000199382248522578e0e337671d30f6/{size}","price":"290","currency":"₽"},{"title":"КАРТОФЕЛЬ ФРИ,","
+9371/2a00000199382248522578e0e337671d30f6/{size}","price":"290","currency":"₽"},{"title":"КАРТОФЕЛЬНОЕ ПЮРЕ
+9371/2a00000199382248522578e0e337671d30f6/{size}","price":"190","currency":"₽"},{"title":"КАРТОФЕЛЬНЫЕ ДОЛЬ
+9371/2a00000199382248522578e0e337671d30f6/{size}","price":"280","currency":"₽"},{"title":"ЦВЕТНАЯ КАПУСТА В
+9371/2a00000199382248522578e0e337671d30f6/{size}","price":"320","currency":"₽"}]},{"categoryName":"САЛАТЫ",
+8945/2a000001990a87bc1d62be348b53f8cbc1c4/{size}","price":"580","currency":"₽"},{"title":"САЛАТ С БАКЛАЖАНА
+1203/2a000001990a87bbeca9222d17d0ad504ae0/{size}","price":"620","currency":"₽"},{"title":"САЛАТ ГРУЗИНСКИЙ"
+3996/2a000001990a87bbfa27a2bf54376aa0ba0e/{size}","price":"390","currency":"₽"},{"title":"ЦЕЗАРЬ С КУРИЦЕЙ"
+1887/2a000001990a87bc29da94c30b2df467b768/{size}","price":"540","currency":"₽"},{"title":"ЦЕЗАРЬ С КРЕВЕТКА
+1887/2a000001990a87bc29da94c30b2df467b768/{size}","price":"690","currency":"₽"},{"title":"САЛАТ С ЯЗЫКОМ И 
+3106/2a000001990a87bbeb05c9f472a69babf323/{size}","price":"550","currency":"₽"},{"title":"САЛАТ ГНЕЗДО ГЛУХ
+8316/2a000001990a87bbedaaed71680ab3cba6d9/{size}","price":"500","currency":"₽"},{"title":"САЛАТ С КОПЧЕНОЙ 
+8836/2a000001990a87bcb09f8cd6dc494899ac73/{size}","price":"500","currency":"₽"}]},{"categoryName":"ХЛЕБ","c
+9840/2a0000019937312e248ecae2486bb2bb74ed/{size}","price":"120","currency":"₽"},{"title":"ХЛЕБ","photoLink"
+9840/2a0000019937312e248ecae2486bb2bb74ed/{size}","price":"80","currency":"₽"}]},{"categoryName":"СОУС","ca
+4120/2a000001993822429d4d4385e418e70f3aa1/{size}","price":"110","currency":"₽"},{"title":"СМЕТАНА","photoLi
+4120/2a000001993822429d4d4385e418e70f3aa1/{size}","price":"110","currency":"₽"},{"title":"АДЖИКА","photoLin
+4120/2a000001993822429d4d4385e418e70f3aa1/{size}","price":"110","currency":"₽"},{"title":"БАЖЕ","photoLink"
+4120/2a000001993822429d4d4385e418e70f3aa1/{size}","price":"110","currency":"₽"},{"title":"ГОРЧИЦА","photoLi
+4120/2a000001993822429d4d4385e418e70f3aa1/{size}","price":"110","currency":"₽"},{"title":"КИМЧИ","photoLink
+4120/2a000001993822429d4d4385e418e70f3aa1/{size}","price":"110","currency":"₽"},{"title":"МАЦОНИ","photoLin
+4120/2a000001993822429d4d4385e418e70f3aa1/{size}","price":"110","currency":"₽"},{"title":"НАРШАРАБ","photoL
+4120/2a000001993822429d4d4385e418e70f3aa1/{size}","price":"110","currency":"₽"}]},{"categoryName":"МАНГАЛ",
+5495/2a0000019938224449ed7fea58e48139021b/{size}","price":"1300","currency":"₽"},{"title":"ОВОЩИ ГРИЛЬ","ph
+4742/2a0000019938224b4db1b23ea1d3404b69b1/{size}","price":"560","currency":"₽"},{"title":"ШАШЛЫК ИЗ СВИНИНЫ
+1182/2a000001990a87bd250e00d0dd1d78d25167/{size}","price":"720","currency":"₽"},{"title":"ШАШЛЫК ИЗ КУРИЦЫ"
+4796/2a000001990a87bc85e06977d20be8ffa184/{size}","price":"590","currency":"₽"},{"title":"ЛЮЛЯ-КЕБАБ","phot
+3996/2a000001990a87bc8b4abcfc4cb6451c2748/{size}","price":"820","currency":"₽"},{"title":"ШАШЛЫК ИЗ КУРИНЫХ
+3620/2a000001990a87bcc7805b91b2d37c1ea60c/{size}","price":"620","currency":"₽"},{"title":"ШАШЛЫК ИЗ БАРАНИН
+4716/2a00000199382245bddacd71b794ee73f2e9/{size}","price":"900","currency":"₽"},{"title":"КРЕВЕТКИ ТИГРОВЫЕ
+4120/2a0000019938224697a7d34ee5f43543d357/{size}","price":"980","currency":"₽"},{"title":"ЦЫПЛЕНОК ГРИЛЬ","
+8945/2a000001990a87bd42b5490a68394ee1d346/{size}","price":"890","currency":"₽"},{"title":"САДЖ ИЗ ШАШЛЫКОВ"
+2611/2a000001990a87bc6fef5e3e9c3adceba7ee/{size}","price":"3100","currency":"₽"}]},{"categoryName":"Горяие 
+4120/2a000001990a87bcf63b456fb32de320cc17/{size}","price":"810","currency":"₽"},{"title":"ОДЖАХУРИ С БАРАНИ
+1182/2a000001990a87bc04e3a6d8e831f5da5706/{size}","price":"800","currency":"₽"},{"title":"СПАГЕТТИ С КРЕВЕТ
+1203/2a00000199382244430694ff2e83f600cc11/{size}","price":"620","currency":"₽"},{"title":"ЧКМЕРУЛИ","descri
+8316/2a000001990a87bc4abe2ef46309b2228375/{size}","price":"660","currency":"₽"},{"title":"ФОРЕЛЬ В ПАПИЛЬОТ
+5495/2a000001990a87bc91c8d194105a4f63b2a2/{size}","price":"1300","currency":"₽"},{"title":"ТРЕСКА С ТАГЛИАТ
+1103/2a000001990a87bc32678d007a7ee1086097/{size}","price":"800","currency":"₽"},{"title":"ОДЖАХУРИ С ТРЕСКО
+1887/2a000001990a87bca34c950389530997aa68/{size}","price":"630","currency":"₽"},{"title":"СВИНИНА ЗАПЕЧЕННА
+1147/2a000001990a87bd209a42eb1f65de6f8d2a/{size}","price":"640","currency":"₽"},{"title":"БОЛЬШАЯ СВИНАЯ ОТ
+1182/2a000001990a87bc3f66d4147b75dd843d9b/{size}","price":"780","currency":"₽"}]},{"categoryName":"Горячие 
+0321/2a000001990a87bc231c85c1902d2de75941/{size}","price":"370","currency":"₽"},{"title":"АДЖАПСАНДАЛ","des
+2342/2a0000019938224e16f55cd02a2b27d8073b/{size}","price":"480","currency":"₽"},{"title":"СЫР СУЛУГУНИ В ХР
+1887/2a000001990a87bbfdc896279036e726c170/{size}","price":"580","currency":"₽"},{"title":"ДОЛМА ИЗ БАРАНИНЫ
+9840/2a000001990a87bbf60b9b7a8ff834376e4a/{size}","price":"680","currency":"₽"},{"title":"СУЛУГУНИ ЗАПЕЧЕНН
+0998/2a000001990a87bd25b08ca877a2b7c36fbe/{size}","price":"460","currency":"₽"}]},{"categoryName":"Холодные
+9840/2a000001990a87bbc51eb2d206002097d10e/{size}","price":"790","currency":"₽"},{"title":"АССОРТИ ГРУЗИНСКИ
+1103/2a000001990a87bb461d9724e7bec21b0948/{size}","price":"600","currency":"₽"},{"title":"АССОРТИ ОВОЩНОЕ",
+1203/2a000001990a87bc6e913229c488981cb708/{size}","price":"350","currency":"₽"},{"title":"РУЛЕТЫ ИЗ БАКЛАЖА
+1203/2a000001990a87ba1e53c03544f251742e18/{size}","price":"640","currency":"₽"},{"title":"ГРУЗДИ СОЛЕНЫЕ","
+3996/2a00000199382241b5ca853f4a18154bea53/{size}","price":"350","currency":"₽"},{"title":"КАПУСТА ПО-ГРУЗИН
+3620/2a000001990a87bba263ddfc1860fe6bcc9c/{size}","price":"180","currency":"₽"},{"title":"СЕЛЕДКА С КАРТОФЕ
+1887/2a000001990a87bbe44b2cca03237a407c86/{size}","price":"420","currency":"₽"},{"title":"АССОРТИ СОЛЕНИЙ",
+9371/2a000001990a87bc20633fdc187949b062d7/{size}","price":"420","currency":"₽"},{"title":"САЦИВИ ИЗ КУРИЦЫ"
+8945/2a00000199382248539f7b7c028f02ff7720/{size}","price":"430","currency":"₽"},{"title":"КАПРЕЗЕ ПО-ГРУЗИН
+1147/2a000001990a87bba89354984a7e9c46f2e1/{size}","price":"430","currency":"₽"},{"title":"РЫБНОЕ АССОРТИ","
+2053/2a000001990a87bbaa69194bcfed41a7d58f/{size}","price":"1500","currency":"₽"}]}]},"histogramData":{"wedn
