@@ -25,10 +25,10 @@ export function MenuPreview() {
             <button
               key={index}
               onClick={() => setActiveCategory(cat.category)}
-              className={`px-6 py-2.5 rounded-full text-sm font-medium transition-all duration-300 ${
+              className={`px-6 py-3 rounded-full text-sm font-medium transition-all duration-300 ${
                 activeCategory === cat.category 
-                  ? 'bg-gold text-background shadow-[0_0_15px_rgba(212,175,55,0.4)] border-transparent' 
-                  : 'bg-white/5 text-foreground/80 hover:bg-white/10 hover:text-white border border-white/5'
+                  ? 'bg-burgundy text-white shadow-lg scale-105' 
+                  : 'bg-black/5 text-foreground/80 hover:bg-black/10 hover:text-black border border-black/5'
               }`}
             >
               {cat.category}

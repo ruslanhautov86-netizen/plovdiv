@@ -8,7 +8,7 @@ export function About() {
         <div className="flex flex-col lg:flex-row items-center gap-12 lg:gap-20">
           
           <div className="flex-1 w-full relative">
-            <div className="aspect-[4/3] rounded-lg overflow-hidden bg-background relative border border-white/5 shadow-2xl">
+            <div className="aspect-[4/3] rounded-lg overflow-hidden bg-background relative border border-black/5 shadow-2xl">
               <div 
                 className="absolute inset-0 bg-cover bg-center"
                 style={{ backgroundImage: 'url("/about-bg.jpg")' }}
@@ -32,17 +32,23 @@ export function About() {
             </p>
             
             <ul className="space-y-4 pt-4 text-left">
-              <li className="flex items-start gap-4">
-                <div className="w-1.5 h-1.5 rounded-full bg-gold mt-2.5 shrink-0" />
-                <p className="text-foreground/80"><strong className="text-white font-medium">Два просторных этажа</strong> с элегантным интерьером и уютным освещением.</p>
+              <li className="flex gap-4">
+                <div className="w-12 h-12 rounded-full bg-gold/10 flex items-center justify-center shrink-0">
+                  <span className="text-gold font-bold">1</span>
+                </div>
+                <p className="text-foreground/80"><strong className="text-foreground font-medium">Два просторных этажа</strong> с элегантным интерьером и уютным освещением.</p>
               </li>
-              <li className="flex items-start gap-4">
-                <div className="w-1.5 h-1.5 rounded-full bg-gold mt-2.5 shrink-0" />
-                <p className="text-foreground/80"><strong className="text-white font-medium">Вместимость до 500 человек</strong> — идеальный выбор для масштабных мероприятий и свадеб.</p>
+              <li className="flex gap-4">
+                <div className="w-12 h-12 rounded-full bg-gold/10 flex items-center justify-center shrink-0">
+                  <span className="text-gold font-bold">2</span>
+                </div>
+                <p className="text-foreground/80"><strong className="text-foreground font-medium">Вместимость до 500 человек</strong> — идеальный выбор для масштабных мероприятий и свадеб.</p>
               </li>
-              <li className="flex items-start gap-4">
-                <div className="w-1.5 h-1.5 rounded-full bg-gold mt-2.5 shrink-0" />
-                <p className="text-foreground/80"><strong className="text-white font-medium">Отдельные VIP-залы</strong> для приватных встреч и небольших компаний.</p>
+              <li className="flex gap-4">
+                <div className="w-12 h-12 rounded-full bg-gold/10 flex items-center justify-center shrink-0">
+                  <span className="text-gold font-bold">3</span>
+                </div>
+                <p className="text-foreground/80"><strong className="text-foreground font-medium">Отдельные VIP-залы</strong> для приватных встреч и небольших компаний.</p>
               </li>
             </ul>
           </div>

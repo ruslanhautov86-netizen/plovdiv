@@ -26,7 +26,7 @@ export function Navbar() {
   return (
     <header 
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-        isScrolled ? 'bg-background/95 backdrop-blur-md border-b border-white/10 py-4' : 'bg-transparent py-6'
+        isScrolled ? 'bg-background/95 backdrop-blur-md border-b border-black/5 py-4' : 'bg-transparent py-6'
       }`}
     >
       <div className="container mx-auto px-4 lg:px-8 flex justify-between items-center">
@@ -68,12 +68,12 @@ export function Navbar() {
 
       {/* Mobile Nav */}
       {isMobileMenuOpen && (
-        <div className="md:hidden absolute top-full left-0 right-0 bg-background border-b border-white/10 p-4 flex flex-col gap-4 shadow-2xl">
+        <div className="md:hidden absolute top-full left-0 right-0 bg-background border-b border-black/5 p-4 flex flex-col gap-4 shadow-2xl">
           {navLinks.map((link) => (
             <a 
               key={link.name} 
               href={link.href}
-              className="text-lg font-medium text-foreground hover:text-gold py-2 border-b border-white/5"
+              className="text-lg font-medium text-foreground hover:text-gold py-2 border-b border-black/5"
               onClick={() => setIsMobileMenuOpen(false)}
             >
               {link.name}

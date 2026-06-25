@@ -15,7 +15,7 @@ export function Card({ imageSrc, title, description, price, className = '' }: Ca
   return (
     <motion.div 
       whileHover={{ y: -5 }}
-      className={`bg-graphite-light overflow-hidden rounded-lg border border-white/5 group ${className}`}
+      className={`bg-graphite-light overflow-hidden rounded-lg border border-black/5 group ${className}`}
     >
       <div className="relative h-64 overflow-hidden">
         <Image 
