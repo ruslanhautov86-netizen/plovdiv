@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #111111;
+  --background: #FAF9F6;
+  --foreground: #2B2A28;
 }
 
 @theme inline {
@@ -15,8 +15,8 @@
   --color-gold-hover: #DDAA55;
   --color-burgundy: #8B1C31;
   --color-burgundy-hover: #A02038;
-  --color-graphite: #f4f4f5;
-  --color-graphite-light: #ffffff;
+  --color-graphite: #F2EFE9;
+  --color-graphite-light: #FFFFFF;
 }
 
 html {
