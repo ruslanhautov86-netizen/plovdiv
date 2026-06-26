@@ -1,3 +1,7 @@
 [build]
   command = "npm run build"
   publish = "out"
+
+[build.environment]
+  NEXT_PUBLIC_SUPABASE_URL = "https://ovlircxedqqhmrafcmqw.supabase.co"
+  NEXT_PUBLIC_SUPABASE_ANON_KEY = "sb_publishable_1hPa2SKqAEAT1PolEztJFA_C5S-zfyE"
