@@ -29,17 +29,27 @@
     <circle cx="0" cy="2" r="3" fill="none" stroke="url(#gold)" stroke-width="1"/>
     
     <!-- Blades (Windmill Sails) -->
-    <g transform="translate(0, -10) rotate(15)">
-      <!-- Cross Arms -->
-      <line x1="-38" y1="0" x2="38" y2="0" stroke="url(#gold)" stroke-width="2"/>
-      <line x1="0" y1="-38" x2="0" y2="38" stroke="url(#gold)" stroke-width="2"/>
-      <!-- Sail Cloths / Lattices -->
-      <polygon points="2,2 35,2 35,12 10,12" fill="url(#gold)" opacity="0.6"/>
-      <polygon points="-2,-2 -35,-2 -35,-12 -10,-12" fill="url(#gold)" opacity="0.6"/>
-      <polygon points="-2,2 -2,35 -12,35 -12,10" fill="url(#gold)" opacity="0.6"/>
-      <polygon points="2,-2 2,-35 12,-35 12,-10" fill="url(#gold)" opacity="0.6"/>
-      <!-- Center Hub -->
-      <circle cx="0" cy="0" r="4" fill="#FFFFFF"/>
+    <g transform="translate(0, -10)">
+      <g>
+        <animateTransform 
+          attributeName="transform" 
+          type="rotate" 
+          from="0 0 0" 
+          to="360 0 0" 
+          dur="25s" 
+          repeatCount="indefinite"
+        />
+        <!-- Cross Arms -->
+        <line x1="-38" y1="0" x2="38" y2="0" stroke="url(#gold)" stroke-width="2"/>
+        <line x1="0" y1="-38" x2="0" y2="38" stroke="url(#gold)" stroke-width="2"/>
+        <!-- Sail Cloths / Lattices -->
+        <polygon points="2,2 35,2 35,12 10,12" fill="url(#gold)" opacity="0.6"/>
+        <polygon points="-2,-2 -35,-2 -35,-12 -10,-12" fill="url(#gold)" opacity="0.6"/>
+        <polygon points="-2,2 -2,35 -12,35 -12,10" fill="url(#gold)" opacity="0.6"/>
+        <polygon points="2,-2 2,-35 12,-35 12,-10" fill="url(#gold)" opacity="0.6"/>
+        <!-- Center Hub -->
+        <circle cx="0" cy="0" r="4" fill="#FFFFFF"/>
+      </g>
     </g>
   </g>
 

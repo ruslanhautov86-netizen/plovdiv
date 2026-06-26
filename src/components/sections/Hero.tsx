@@ -14,7 +14,8 @@ export function Hero() {
           backgroundImage: 'url("/hero-bg.jpg")',
         }}
       >
-        <div className="absolute inset-0 bg-gradient-to-b from-black/80 via-black/60 to-background"></div>
+        <div className="absolute inset-0 bg-black/70"></div>
+        <div className="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-background to-transparent"></div>
       </div>
 
       {/* Content */}
@@ -29,11 +30,9 @@ export function Hero() {
           <span className="text-gold font-medium uppercase tracking-[0.3em] text-sm md:text-base mb-6 block">
             Добро пожаловать
           </span>
-          <h1 className="text-5xl md:text-7xl lg:text-8xl font-heading font-bold text-white tracking-tight leading-[1.1]">
+          <h1 className="text-5xl md:text-7xl lg:text-8xl font-heading font-bold text-transparent bg-clip-text bg-gradient-to-r from-gold to-gold-hover tracking-tight leading-[1.1] drop-shadow-[0_2px_10px_rgba(197,160,89,0.3)]">
             СТАРЫЙ <br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-gold to-gold-hover">
-              ПЛОВДИВ
-            </span>
+            ПЛОВДИВ
           </h1>
         </motion.div>
 
@@ -43,7 +42,7 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.4 }}
           className="max-w-2xl mx-auto"
         >
-          <p className="text-lg md:text-xl text-white/90 mb-10 leading-relaxed font-light">
+          <p className="text-lg md:text-xl text-white/95 mb-10 leading-relaxed font-light drop-shadow-lg max-w-xl mx-auto">
             Самый большой ресторан Красносельского района. Идеальное место для вашего отдыха, 
             шумных вечеринок, свадебных банкетов и концертов.
           </p>
@@ -55,11 +54,11 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.6 }}
           className="flex flex-col sm:flex-row items-center gap-4 w-full sm:w-auto"
         >
-          <Button variant="primary" size="lg" className="w-full sm:w-auto text-lg px-8">
+          <Button variant="primary" size="lg" className="w-full sm:w-auto text-lg px-8 shadow-[0_4px_20px_rgba(139,28,49,0.4)]">
             Забронировать стол
           </Button>
           <a href="#menu" className="w-full sm:w-auto">
-            <Button variant="outline" size="lg" className="w-full text-lg px-8">
+            <Button variant="outline" size="lg" className="w-full text-lg px-8 bg-white/10 backdrop-blur-md border-white/20 text-white hover:bg-white/20 hover:text-white shadow-lg">
               Посмотреть меню
             </Button>
           </a>
