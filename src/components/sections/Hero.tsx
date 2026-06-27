@@ -30,7 +30,7 @@ export function Hero() {
           <span className="text-gold font-medium uppercase tracking-[0.3em] text-sm md:text-base mb-6 block">
             Добро пожаловать
           </span>
-          <h1 className="text-5xl md:text-7xl lg:text-8xl font-heading font-bold text-transparent bg-clip-text bg-gradient-to-r from-gold to-gold-hover tracking-tight leading-[1.1] drop-shadow-[0_2px_10px_rgba(197,160,89,0.3)]">
+          <h1 className="text-5xl md:text-7xl lg:text-8xl font-heading font-bold text-transparent bg-clip-text bg-gradient-to-r from-gold to-gold-hover tracking-tight leading-[1.1]">
             СТАРЫЙ <br />
             ПЛОВДИВ
           </h1>
